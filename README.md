@@ -1,4 +1,4 @@
-### Hi there 👋
+### 初めまして、天海るりと申します
 
 <!--
 **rurico/rurico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
