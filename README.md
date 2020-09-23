@@ -1,3 +1,5 @@
+![rurico github stats](https://github-readme-stats.vercel.app/api?username=rurico&hide=["issues","prs"]&show_icons=true)
+
 ### 制服元気ツインテル少女気になりたい
 
 <!--
