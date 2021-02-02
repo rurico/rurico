@@ -2,6 +2,15 @@
 
 ### 制服元気ツインテル少女気になりたい
 
+```
+   あまみ るり
+    天海　瑠璃
+```
+
+`天海るり`は、空と海が瑠璃色に染まる景色。そんなことを考えて名付けました。`天海るり`という名前は、実は**色**なんですね。
+
+![](./images/なんで美少女じゃないの.jpg)
+
 <!--
 **rurico/rurico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
